@@ -11,6 +11,10 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'debugger', group: [:development, :test]
+gem 'devise'
+gem 'mysql2'
+gem 'blogit', '1.0.0.rc1'
+gem 'acts-as-taggable-on', '~> 3.4'
 # gem 'therubyracer',  platforms: :ruby
 # gem 'bcrypt', '~> 3.1.7'
 # gem 'unicorn'
